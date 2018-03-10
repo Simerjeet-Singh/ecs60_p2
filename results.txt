@@ -1,0 +1,79 @@
+Scores from p2 for Pathak,Hersh Singh,Simerjeet 
+
+Note that the format for authors.csv is: e-mail<comma>last name<comma>first name
+For example: ssdavis@ucdavis.edu,Davis,Sean
+
+Addresses used: hbpathak@ucdavis.edu sadsingh@ucdavis.edu  
+BTree1.dat 3 4:
+OK
+ 
+BTree2.dat 3 4:
+OK
+  
+BTree5.dat 3 4:
+OK
+ 
+BTree12.dat 3 4:
+OK
+ 
+BTree25.dat 3 4:
+OK
+ 
+BTree5.dat 5 2:
+OK
+ 
+BTree12.dat 5 2:
+OK
+ 
+BTree25.dat 5 2:
+OK
+ 
+BTree12.dat 2 6:
+OK
+ 
+BTree25.dat 2 6:
+Yours: 
+Internal: 10 37 
+Internal: 1 
+Internal: 10 18 
+Internal: 37 56 
+Leaf: 1 8 9 
+Leaf: 10 12 13 81 
+Leaf: 18 22 24 27 30 35 
+Leaf: 37 40 44 47 53 54 
+Leaf: 56 57 65 67 69 80 
+Internal: 1 10 
+Internal: 1 
+Internal: 10 37 
+Internal: 1 
+Internal: 10 18 
+Internal: 37 56 
+Leaf: 1 8 9 
+Leaf: 10 12 13 81 
+Leaf: 18 22 24 27 30 35 
+Leaf: 37 40 44 47 53 54 
+Leaf: 56 57 65 67 69 80 
+
+Sean's: 
+Internal: 37 56 
+Internal: 1 18 
+Internal: 37 
+Internal: 56 67 
+Leaf: 1 8 9 10 12 13 
+Leaf: 18 22 24 27 30 35 
+Leaf: 37 40 44 47 53 54 
+Leaf: 56 57 65 
+Leaf: 67 69 80 81 
+Internal: 1 37 
+Internal: 1 
+Internal: 37 56 
+Internal: 1 18 
+Internal: 37 
+Internal: 56 67 
+Leaf: 1 8 9 10 12 13 
+Leaf: 18 22 24 27 30 35 
+Leaf: 37 40 44 47 53 54 
+Leaf: 56 57 65 
+Leaf: 67 69 80 81 
+ 
+Total score: 45

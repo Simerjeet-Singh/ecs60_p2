@@ -1,0 +1,324 @@
+Inserting 24. 
+Leaf: 24 
+Inserting 53. 
+Leaf: 24 53 
+Inserting 10. 
+Internal: 10 24 
+Leaf: 10 
+Leaf: 24 53 
+Inserting 67. 
+Internal: 10 53 
+Leaf: 10 24 
+Leaf: 53 67 
+Inserting 54. 
+Internal: 10 53 54 
+Leaf: 10 24 
+Leaf: 53 
+Leaf: 54 67 
+Inserting 27. 
+Internal: 10 27 54 
+Leaf: 10 24 
+Leaf: 27 53 
+Leaf: 54 67 
+Inserting 69. 
+Internal: 10 54 
+Internal: 10 27 
+Internal: 54 67 
+Leaf: 10 24 
+Leaf: 27 53 
+Leaf: 54 
+Leaf: 67 69 
+Inserting 30. 
+Internal: 10 53 
+Internal: 10 27 
+Internal: 53 67 
+Leaf: 10 24 
+Leaf: 27 30 
+Leaf: 53 54 
+Leaf: 67 69 
+Inserting 56. 
+Internal: 10 53 
+Internal: 10 27 
+Internal: 53 54 67 
+Leaf: 10 24 
+Leaf: 27 30 
+Leaf: 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Inserting 80. 
+Internal: 10 54 
+Internal: 10 27 53 
+Internal: 54 67 69 
+Leaf: 10 24 
+Leaf: 27 30 
+Leaf: 53 
+Leaf: 54 56 
+Leaf: 67 
+Leaf: 69 80 
+Inserting 81. 
+Internal: 10 54 
+Internal: 10 27 53 
+Internal: 54 67 80 
+Leaf: 10 24 
+Leaf: 27 30 
+Leaf: 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 37. 
+Internal: 10 54 
+Internal: 10 27 37 
+Internal: 54 67 80 
+Leaf: 10 24 
+Leaf: 27 30 
+Leaf: 37 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 12. 
+Internal: 10 27 54 
+Internal: 10 12 
+Internal: 27 37 
+Internal: 54 67 80 
+Leaf: 10 
+Leaf: 12 24 
+Leaf: 27 30 
+Leaf: 37 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 8. 
+Internal: 8 27 54 
+Internal: 8 12 
+Internal: 27 37 
+Internal: 54 67 80 
+Leaf: 8 10 
+Leaf: 12 24 
+Leaf: 27 30 
+Leaf: 37 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 22. 
+Internal: 8 27 54 
+Internal: 8 12 22 
+Internal: 27 37 
+Internal: 54 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 47. 
+Internal: 8 27 54 
+Internal: 8 12 22 
+Internal: 27 37 47 
+Internal: 54 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 57. 
+Internal: 8 54 
+Internal: 8 27 
+Internal: 54 67 
+Internal: 8 12 22 
+Internal: 27 37 47 
+Internal: 54 56 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 
+Leaf: 47 53 
+Leaf: 54 
+Leaf: 56 57 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 40. 
+Internal: 8 54 
+Internal: 8 27 
+Internal: 54 67 
+Internal: 8 12 22 
+Internal: 27 37 47 
+Internal: 54 56 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 40 
+Leaf: 47 53 
+Leaf: 54 
+Leaf: 56 57 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 18. 
+Internal: 8 54 
+Internal: 8 27 
+Internal: 54 67 
+Internal: 8 12 22 
+Internal: 27 37 47 
+Internal: 54 56 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 40 
+Leaf: 47 53 
+Leaf: 54 
+Leaf: 56 57 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 44. 
+Internal: 8 47 
+Internal: 8 27 
+Internal: 47 67 
+Internal: 8 12 22 
+Internal: 27 37 40 
+Internal: 47 54 56 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 
+Leaf: 56 57 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 65. 
+Internal: 8 47 
+Internal: 8 27 
+Internal: 47 67 
+Internal: 8 12 22 
+Internal: 27 37 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 35. 
+Internal: 8 47 
+Internal: 8 27 
+Internal: 47 67 
+Internal: 8 12 22 
+Internal: 27 35 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 13. 
+Internal: 8 47 
+Internal: 8 13 27 
+Internal: 47 67 
+Internal: 8 12 
+Internal: 13 22 
+Internal: 27 35 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 8 10 
+Leaf: 12 
+Leaf: 13 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 1. 
+Internal: 1 47 
+Internal: 1 13 27 
+Internal: 47 67 
+Internal: 1 10 
+Internal: 13 22 
+Internal: 27 35 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 1 8 
+Leaf: 10 12 
+Leaf: 13 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Inserting 9. 
+Internal: 1 47 
+Internal: 1 13 27 
+Internal: 47 67 
+Internal: 1 8 10 
+Internal: 13 22 
+Internal: 27 35 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 1 
+Leaf: 8 9 
+Leaf: 10 12 
+Leaf: 13 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
+Internal: 1 47 
+Internal: 1 13 27 
+Internal: 47 67 
+Internal: 1 8 10 
+Internal: 13 22 
+Internal: 27 35 40 
+Internal: 47 54 57 
+Internal: 67 80 
+Leaf: 1 
+Leaf: 8 9 
+Leaf: 10 12 
+Leaf: 13 18 
+Leaf: 22 24 
+Leaf: 27 30 
+Leaf: 35 37 
+Leaf: 40 44 
+Leaf: 47 53 
+Leaf: 54 56 
+Leaf: 57 65 
+Leaf: 67 69 
+Leaf: 80 81 
